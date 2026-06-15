@@ -1,11 +1,3 @@
-# Hi, I'm Misaka24 👋
-
-## About Me
-
-- 🎓 Software Engineering student
-
----
-
 ## GitHub Stats
 
 <picture>
@@ -73,7 +65,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
-
-## Contact
-
-- GitHub: [@Misaka24](https://github.com/Misaka24)
