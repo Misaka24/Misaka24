@@ -43,7 +43,8 @@
 # 📌Pinned
 
 <p>
-  <a href="https://github.com/Misaka24/C_CPP_Learning"><img align="top" src="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&repo=C_CPP_Learning&description_lines_count=2&cache_seconds=21600" alt="C_CPP_Learning" /></a><a href="https://github.com/Misaka24/StarWars-Archive"><img align="top" src="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&repo=StarWars-Archive&description_lines_count=2&cache_seconds=21600" alt="StarWars-Archive" /></a>
+  <a href="https://github.com/Misaka24/C_CPP_Learning"><img align="top" src="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&repo=C_CPP_Learning&description_lines_count=2&cache_seconds=21600" alt="C_CPP_Learning" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/Misaka24/StarWars-Archive"><img align="top" src="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&repo=StarWars-Archive&description_lines_count=2&cache_seconds=21600" alt="StarWars-Archive" /></a>
 </p>
 
 <p>
