@@ -1,3 +1,11 @@
+# Hi, I'm Misaka24 👋
+
+## About Me
+
+- 🎓 Software Engineering student
+
+---
+
 ## GitHub Stats
 
 <picture>
@@ -32,11 +40,30 @@
 
 ---
 
-## 📌 Pinned
+# 📌Pinned
 
-[![C_CPP_Learning](https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&repo=C_CPP_Learning&cache_seconds=21600)](https://github.com/Misaka24/C_CPP_Learning)
-[![StarWars-Archive](https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&repo=StarWars-Archive&cache_seconds=21600)](https://github.com/Misaka24/StarWars-Archive)
-[![BiliBili_Manga_Download_Script](https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&repo=BiliBili_Manga_Download_Script&cache_seconds=21600)](https://github.com/Misaka24/BiliBili_Manga_Download_Script)
+<a href="https://github.com/Misaka24/C_CPP_Learning">
+  <img
+    align="center"
+    alt="C_CPP_Learning"
+    src="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&repo=C_CPP_Learning&description_lines_count=2&cache_seconds=21600"
+  />
+</a>
+<a href="https://github.com/Misaka24/StarWars-Archive">
+  <img
+    align="center"
+    alt="StarWars-Archive"
+    src="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&repo=StarWars-Archive&description_lines_count=2&cache_seconds=21600"
+  />
+</a>
+
+<a href="https://github.com/Misaka24/BiliBili_Manga_Download_Script">
+  <img
+    align="center"
+    alt="BiliBili_Manga_Download_Script"
+    src="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&repo=BiliBili_Manga_Download_Script&description_lines_count=2&cache_seconds=21600"
+  />
+</a>
 
 ---
 
@@ -60,3 +87,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
+
+## Contact
+
+- GitHub: [@Misaka24](https://github.com/Misaka24)
