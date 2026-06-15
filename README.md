@@ -42,28 +42,13 @@
 
 # 📌Pinned
 
-<a href="https://github.com/Misaka24/C_CPP_Learning">
-  <img
-    align="center"
-    alt="C_CPP_Learning"
-    src="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&repo=C_CPP_Learning&description_lines_count=2&cache_seconds=21600"
-  />
-</a>
-<a href="https://github.com/Misaka24/StarWars-Archive">
-  <img
-    align="center"
-    alt="StarWars-Archive"
-    src="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&repo=StarWars-Archive&description_lines_count=2&cache_seconds=21600"
-  />
-</a>
+<p>
+  <a href="https://github.com/Misaka24/C_CPP_Learning"><img align="top" src="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&repo=C_CPP_Learning&description_lines_count=2&cache_seconds=21600" alt="C_CPP_Learning" /></a><a href="https://github.com/Misaka24/StarWars-Archive"><img align="top" src="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&repo=StarWars-Archive&description_lines_count=2&cache_seconds=21600" alt="StarWars-Archive" /></a>
+</p>
 
-<a href="https://github.com/Misaka24/BiliBili_Manga_Download_Script">
-  <img
-    align="center"
-    alt="BiliBili_Manga_Download_Script"
-    src="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&repo=BiliBili_Manga_Download_Script&description_lines_count=2&cache_seconds=21600"
-  />
-</a>
+<p>
+  <a href="https://github.com/Misaka24/BiliBili_Manga_Download_Script"><img align="top" src="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&repo=BiliBili_Manga_Download_Script&description_lines_count=2&cache_seconds=21600" alt="BiliBili_Manga_Download_Script" /></a>
+</p>
 
 ---
 
