@@ -40,7 +40,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/Misaka24/BiliBili_Manga_Download_Script"><img align="top" src="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&repo=BiliBili_Manga_Download_Script&description_lines_count=2&cache_seconds=21600" alt="BiliBili_Manga_Download_Script" /></a>
+  <a href="https://github.com/Misaka24/BiliBili_Manga_Download_Script"><img align="top" src="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&repo=BiliBili_Manga_Download_Script&description_lines_count=2&cache_seconds=21600" alt="BiliBili_Manga_Download_Script" /></a>&nbsp;&nbsp;
   <a href="https://github.com/Misaka24/BiliBili_Manga_Downloader"><img align="top" src="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&repo=BiliBili_Manga_Downloader&description_lines_count=2&cache_seconds=21600" alt="BiliBili_Manga_Downloader" /></a>
 </p>
 
