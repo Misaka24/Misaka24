@@ -39,67 +39,11 @@
 # 📌Pinned
 
 <p>
-  <a href="https://github.com/Misaka24/C_CPP_Learning"><picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&amp;repo=C_CPP_Learning&amp;theme=tokyonight&amp;description_lines_count=2&amp;cache_seconds=21600"
-    />
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&amp;repo=C_CPP_Learning&amp;theme=default&amp;description_lines_count=2&amp;cache_seconds=21600"
-    />
-    <img
-      align="top"
-      alt="C_CPP_Learning"
-      src="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&amp;repo=C_CPP_Learning&amp;theme=default&amp;description_lines_count=2&amp;cache_seconds=21600"
-    />
-  </picture></a>&nbsp;&nbsp;<a href="https://github.com/Misaka24/StarWars-Archive"><picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&amp;repo=StarWars-Archive&amp;theme=tokyonight&amp;description_lines_count=2&amp;cache_seconds=21600"
-    />
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&amp;repo=StarWars-Archive&amp;theme=default&amp;description_lines_count=2&amp;cache_seconds=21600"
-    />
-    <img
-      align="top"
-      alt="StarWars-Archive"
-      src="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&amp;repo=StarWars-Archive&amp;theme=default&amp;description_lines_count=2&amp;cache_seconds=21600"
-    />
-  </picture></a>
+<a href="https://github.com/Misaka24/C_CPP_Learning"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&amp;repo=C_CPP_Learning&amp;theme=tokyonight&amp;hide_border=true&amp;description_lines_count=2&amp;cache_seconds=21600" /><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&amp;repo=C_CPP_Learning&amp;theme=default&amp;description_lines_count=2&amp;cache_seconds=21600" /><img align="top" alt="C_CPP_Learning" src="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&amp;repo=C_CPP_Learning&amp;theme=default&amp;description_lines_count=2&amp;cache_seconds=21600" /></picture></a>&nbsp;&nbsp;<a href="https://github.com/Misaka24/StarWars-Archive"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&amp;repo=StarWars-Archive&amp;theme=tokyonight&amp;hide_border=true&amp;description_lines_count=2&amp;cache_seconds=21600" /><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&amp;repo=StarWars-Archive&amp;theme=default&amp;description_lines_count=2&amp;cache_seconds=21600" /><img align="top" alt="StarWars-Archive" src="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&amp;repo=StarWars-Archive&amp;theme=default&amp;description_lines_count=2&amp;cache_seconds=21600" /></picture></a>
 </p>
 
 <p>
-  <a href="https://github.com/Misaka24/BiliBili_Manga_Download_Script"><picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&amp;repo=BiliBili_Manga_Download_Script&amp;theme=tokyonight&amp;description_lines_count=2&amp;cache_seconds=21600"
-    />
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&amp;repo=BiliBili_Manga_Download_Script&amp;theme=default&amp;description_lines_count=2&amp;cache_seconds=21600"
-    />
-    <img
-      align="top"
-      alt="BiliBili_Manga_Download_Script"
-      src="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&amp;repo=BiliBili_Manga_Download_Script&amp;theme=default&amp;description_lines_count=2&amp;cache_seconds=21600"
-    />
-  </picture></a>&nbsp;&nbsp;<a href="https://github.com/Misaka24/BiliBili_Manga_Downloader"><picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&amp;repo=BiliBili_Manga_Downloader&amp;theme=tokyonight&amp;description_lines_count=2&amp;cache_seconds=21600"
-    />
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&amp;repo=BiliBili_Manga_Downloader&amp;theme=default&amp;description_lines_count=2&amp;cache_seconds=21600"
-    />
-    <img
-      align="top"
-      alt="BiliBili_Manga_Downloader"
-      src="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&amp;repo=BiliBili_Manga_Downloader&amp;theme=default&amp;description_lines_count=2&amp;cache_seconds=21600"
-    />
-  </picture></a>
+<a href="https://github.com/Misaka24/BiliBili_Manga_Download_Script"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&amp;repo=BiliBili_Manga_Download_Script&amp;theme=tokyonight&amp;hide_border=true&amp;description_lines_count=2&amp;cache_seconds=21600" /><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&amp;repo=BiliBili_Manga_Download_Script&amp;theme=default&amp;description_lines_count=2&amp;cache_seconds=21600" /><img align="top" alt="BiliBili_Manga_Download_Script" src="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&amp;repo=BiliBili_Manga_Download_Script&amp;theme=default&amp;description_lines_count=2&amp;cache_seconds=21600" /></picture></a>&nbsp;&nbsp;<a href="https://github.com/Misaka24/BiliBili_Manga_Downloader"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&amp;repo=BiliBili_Manga_Downloader&amp;theme=tokyonight&amp;hide_border=true&amp;description_lines_count=2&amp;cache_seconds=21600" /><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&amp;repo=BiliBili_Manga_Downloader&amp;theme=default&amp;description_lines_count=2&amp;cache_seconds=21600" /><img align="top" alt="BiliBili_Manga_Downloader" src="https://github-readme-stats-tokiwadai.vercel.app/api/pin/?username=Misaka24&amp;repo=BiliBili_Manga_Downloader&amp;theme=default&amp;description_lines_count=2&amp;cache_seconds=21600" /></picture></a>
 </p>
 
 ## Tech Stack
