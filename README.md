@@ -3,30 +3,34 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-tokiwadai.vercel.app/api?username=Misaka24&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=21600"
+    srcset="https://github-readme-stats-tokiwadai.vercel.app/api?username=Misaka24&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;theme=tokyonight&amp;hide_border=true&amp;card_width=495&amp;cache_seconds=21600"
   />
   <source
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats-tokiwadai.vercel.app/api?username=Misaka24&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;theme=default&amp;hide_border=true&amp;cache_seconds=21600"
+    srcset="https://github-readme-stats-tokiwadai.vercel.app/api?username=Misaka24&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;theme=default&amp;hide_border=true&amp;card_width=495&amp;cache_seconds=21600"
   />
   <img
+    width="495"
     alt="Misaka24 GitHub Stats"
-    src="https://github-readme-stats-tokiwadai.vercel.app/api?username=Misaka24&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;theme=default&amp;hide_border=true&amp;cache_seconds=21600"
+    src="https://github-readme-stats-tokiwadai.vercel.app/api?username=Misaka24&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;theme=default&amp;hide_border=true&amp;card_width=495&amp;cache_seconds=21600"
   />
 </picture>
+
+<br />
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-tokiwadai.vercel.app/api/top-langs/?username=Misaka24&amp;layout=compact&amp;langs_count=8&amp;card_width=445&amp;theme=tokyonight&amp;hide_border=true&amp;exclude_repo=github-readme-stats,Scene-Port-Hider-by-eBPF,Atrahasis,BaPs&amp;cache_seconds=21600"
+    srcset="https://github-readme-stats-tokiwadai.vercel.app/api/top-langs/?username=Misaka24&amp;layout=compact&amp;langs_count=8&amp;card_width=495&amp;theme=tokyonight&amp;hide_border=true&amp;exclude_repo=github-readme-stats,Scene-Port-Hider-by-eBPF,Atrahasis,BaPs&amp;cache_seconds=21600"
   />
   <source
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats-tokiwadai.vercel.app/api/top-langs/?username=Misaka24&amp;layout=compact&amp;langs_count=8&amp;card_width=445&amp;theme=default&amp;hide_border=true&amp;exclude_repo=github-readme-stats,Scene-Port-Hider-by-eBPF,Atrahasis,BaPs&amp;cache_seconds=21600"
+    srcset="https://github-readme-stats-tokiwadai.vercel.app/api/top-langs/?username=Misaka24&amp;layout=compact&amp;langs_count=8&amp;card_width=495&amp;theme=default&amp;hide_border=true&amp;exclude_repo=github-readme-stats,Scene-Port-Hider-by-eBPF,Atrahasis,BaPs&amp;cache_seconds=21600"
   />
   <img
+    width="495"
     alt="Misaka24 Top Languages"
-    src="https://github-readme-stats-tokiwadai.vercel.app/api/top-langs/?username=Misaka24&amp;layout=compact&amp;langs_count=8&amp;card_width=445&amp;theme=default&amp;hide_border=true&amp;exclude_repo=github-readme-stats,Scene-Port-Hider-by-eBPF,Atrahasis,BaPs&amp;cache_seconds=21600"
+    src="https://github-readme-stats-tokiwadai.vercel.app/api/top-langs/?username=Misaka24&amp;layout=compact&amp;langs_count=8&amp;card_width=495&amp;theme=default&amp;hide_border=true&amp;exclude_repo=github-readme-stats,Scene-Port-Hider-by-eBPF,Atrahasis,BaPs&amp;cache_seconds=21600"
   />
 </picture>
 
